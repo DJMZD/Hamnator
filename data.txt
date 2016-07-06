@@ -1,0 +1,34 @@
+25歳以下,背番号が30より小さい,今年1軍登場経験あり,左投げ,左打ち,体重85キロ以上,タイトル経験者,誕生日が1月〜6月,名前
+y,y,y,n,y,y,y,n,大谷　翔平
+n,y,n,y,y,n,n,n,石井　裕也
+y,y,y,y,y,n,n,y,加藤　貴之
+n,y,y,n,n,y,n,n,メンドーサ
+y,y,y,n,n,y,y,n,有原　航平
+n,y,n,n,n,n,n,n,浦野　博司
+n,y,y,n,n,n,n,y,斎藤　佑樹
+n,y,y,n,n,n,y,y,増井　浩俊
+y,y,n,y,y,y,n,y,上原　健太
+n,y,n,n,y,n,y,n,武田　久
+n,y,y,y,y,n,n,y,宮西　尚生
+n,y,n,n,n,y,n,n,新垣　勇人
+y,y,y,n,n,n,n,y,井口　和朋
+n,y,y,n,n,n,n,n,鍵谷　陽平
+n,n,n,y,y,y,n,n,須永　英輝
+n,n,y,y,y,n,y,y,吉川　光夫
+n,n,y,n,n,n,n,n,榎下　陽大
+y,n,y,n,n,n,n,n,中村　勝
+n,n,n,y,y,n,n,n,武田　勝
+y,n,y,n,n,y,n,y,高梨　裕稔
+y,n,y,y,y,y,n,y,金平　将至
+y,n,y,n,y,n,n,n,白村　明弘
+n,n,y,y,y,y,n,n,瀬川　隼郎
+y,n,y,n,n,y,n,n,田中　豊樹
+n,n,y,n,n,n,n,y,谷元　圭介
+y,n,n,n,n,n,n,n,石川　直也
+n,n,y,n,n,y,n,n,バース
+y,n,n,n,n,y,n,n,立田　将太
+n,n,n,n,n,y,n,n,大塚　豊
+n,n,y,n,n,y,n,y,マーティン
+n,n,n,n,y,n,n,y,屋宜　照悟
+y,n,n,n,n,n,n,y,吉田　侑樹
+y,n,n,n,n,y,n,y,上沢　直之
